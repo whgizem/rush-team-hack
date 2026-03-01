@@ -80,7 +80,7 @@ Rush Team on gaming-style.com has **zero anti-cheat** — no scanning, no detect
 - **Download the Rush Team hack:** [rushteam.tools](https://rushteam.tools)
 - **Rush Team hack install guide:** [rushteam.tools/install](https://rushteam.tools/install)
 - **GreasyFork:** [greasyfork.org/scripts/562846](https://greasyfork.org/en/scripts/562846)
-- **Discord (support & keys):** [discord.gg/cfKWnvGb](https://discord.gg/cfKWnvGb)
+- **Discord (support & keys):** [discord.gg/zajEY7YhVE](https://discord.gg/zajEY7YhVE)
 
 ---
 
@@ -96,7 +96,7 @@ Rush Team on gaming-style.com has **zero anti-cheat** — no scanning, no detect
 
 **What browsers work?** Chrome, Firefox, Edge, Brave — desktop only. Requires [Tampermonkey](https://www.tampermonkey.net/).
 
-More questions? [Full FAQ](FAQ.md) · [Discord](https://discord.gg/cfKWnvGb)
+More questions? [Full FAQ](FAQ.md) · [Discord](https://discord.gg/zajEY7YhVE)
 
 ---
 
